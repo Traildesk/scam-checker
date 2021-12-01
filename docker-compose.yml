@@ -1,0 +1,6 @@
+version: "3.4"
+services:
+  scam-bot:
+    build:
+      context: ./
+      dockerfile: Dockerfile
